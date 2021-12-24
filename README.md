@@ -5,7 +5,7 @@
 许多研究者使用EEG这项技术开展科研工作时，经常会遇到这样一个问题：有很好的idea但苦于缺乏足够的数据支持和验证。尤其是在2019 - 2020年COVID-19期间，许多高校实验室处于封闭状态，不能进入实验室采集脑电数据。在缺乏足够数据支持的情况下，如何开展与EEG有关的课题研究，又一次成为一个焦点。其实网络上有许多机构或组织以及研究者或研究团队会公开自己已开展研究的数据库，供大家开放使用。
 本期编者搜集整理了目前互联网中的 EEG公开数据集，主要分为五大模块，各位研究者可根据自己的需要获取数据集。
 
-
+***
 **[Ⅰ] 事件相关电位数据集（Event Related Potential Dataset）**
 
 1、ERP Core 数据集 
@@ -22,7 +22,7 @@ OpenNeuro项目官网：https://openneuro.org/
 OpenNeuro检索地址：https://openneuro.org/public/datasets 
 go / nogo数据集获取地址：https://openneuro.org/datasets/ds002680/versions/1.0.0 
 
-
+***
 **[Ⅱ] 功能性脑疾病数据集（Functional Brain Disease Dataset）**
 
 1、癫痫数据集
@@ -104,7 +104,7 @@ MODMA dataset 是一个专业开放的脑疾病多模态数据库，网站目前
 5.3 该数据集为精神分裂症患者执行基本感觉任务的EEG 数据。
 数据详细介绍及获取方式： https://www.kaggle.com/broach/button-tone-sz
 
-
+***
 **[Ⅲ] 脑机接口脑电数据集（Brain Computer Interface EEG Dataset）**
 
 
@@ -144,7 +144,7 @@ https://www.physionet.org/content/eegmmidb/1.0.0/
 5.3 ERP-based Brain-Computer Interface recordings 
 https://www.physionet.org/content/erpbci/1.0.0/ 
 
-
+***
 **[Ⅳ] 睡眠脑电数据集（Sleep EEG Dataset）**
 
 1、NCH Sleep DataBank
@@ -179,7 +179,7 @@ EDFbrowser：https://www.teuniz.net/edfbrowser/
 数据库获取地址：https://figshare.com/articles/dataset/Newborn_sleep_EEG_data/4729840 
 
 
-
+***
 **[Ⅴ] 创伤性脑疾病数据集（Traumatic Brain Disease Dataset）**
 
 1、轻度创伤性脑损伤
@@ -223,5 +223,3 @@ https://github.com/hubandad/EEGDataset-on-The-Internet 欢迎大家协作更新�
 
 
 latested update 23th Dec,2021
-
-
