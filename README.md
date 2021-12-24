@@ -219,7 +219,7 @@ http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro
 
 4、其他未整理的公开数据集地址汇总
 
-https://github.com/hubandad/eegdataset/ 欢迎大家协作更新。
+https://github.com/hubandad/EEGDataset-on-The-Internet 欢迎大家协作更新。
 
 
 latested update 23th Dec,2021
