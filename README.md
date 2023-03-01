@@ -1,4 +1,4 @@
-# Public EEG Dataset
+# EEG 公开数据集
 
 本期推文是 Public Neuroscience Dataset 系列主题的第一期内容。开篇编者整理了 EEG 公开数据集，供研究者学习。
 
@@ -221,5 +221,3 @@ http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro
 
 https://github.com/hubandad/EEGDataset-on-The-Internet 欢迎大家协作更新。
 
-
-latested update 23th Dec,2021
